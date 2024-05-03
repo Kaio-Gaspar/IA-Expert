@@ -1,0 +1,13 @@
+quando tiver a probabilidade da tabela 0 o resultado do P vai ser 0
+
+Ai é necessario a correçao laplaciana
+
+somar a parte do denominador +1(pois é adicionado mais um registro) e substituir o zero por 1/denominador
+
+EX
+
+risco baixo = 5/14 -> 6/15
+Antes - P(Baixo) = 5/14 * 0 * 2/5 * 2/5 * 0
+Agora - P(Baixo) = 6/15 * 1/6 * 2/6 * 2/6 * 1/6
+
+

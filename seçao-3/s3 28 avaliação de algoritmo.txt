@@ -1,0 +1,8 @@
+O algoritmo analise os dados e gera o chamado modelo do algoritmo
+navybie - tabela probabilidade
+
+JA POSSUI A CLASSE
+base de dados treinamento
+base de dados teste
+
+eficiencia é medido por base de dados treinamento/base de dados teste

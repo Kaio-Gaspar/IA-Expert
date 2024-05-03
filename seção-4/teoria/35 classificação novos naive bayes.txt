@@ -1,0 +1,23 @@
+ira percorrer os dados com a informação do cliente e dara a 
+propabilidade do clinete pagar o crédito por exemplo
+historia=boa, divida=alta, garantia=nenhuma, renda= >35
+
+
+P(Alto) = 6/14 * 1/6 * 4/6 * 6/6 * 1/6
+os valores são da tabela e que coincidem com o dado do cliente
+P(Alto) = 0,0079
+
+P(Moderado) = 3/14 * 1/3 * 1/3 * 2/3 * 1/3 = 0,0052
+
+P(Baixo) = 5/14 * 3/5 * 2/5 * 3/5 * 5/5 = 0,0514
+
+Classificado de risco de dar emprestimo como baixo(maior numero)
+
+
+0,0052 + 0,0514 + 0,0079 = 0,0645 -> 100%
+
+
+P(baixo) = 79,68%
+P(moderado) = 8,06%
+P(alto) = 12,24%
+

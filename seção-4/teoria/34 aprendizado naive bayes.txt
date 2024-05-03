@@ -1,0 +1,23 @@
+aprendizagem no naive bayes
+
+probabilidade
+
+6 riscos altos de 14 possibilidades = 6/14
+5 riscos baixo de 14 = 5/14
+3 riscos moderados de 14 = 3/14
+
+contar historicos da classe
+
+5 boa
+5 desconhecida
+4 ruim
+
+agora intercalar(intersecção)
+boa com moderado, baixo, alto
+desconnhecida com moderado, baixo, alto e assim por diante
+
+ex: verificar quantas x aparece boa com alto - 1/3 boa&alto
+ou seja 1 terço dos risco alto é histoia do credito boa
+1/3 - o 3 vem da quantidade de risco alto
+
+é uma tabela de probabilidade, so ir preenchendo

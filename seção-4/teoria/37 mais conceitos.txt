@@ -1,0 +1,18 @@
+naive bayes possui a função radius que pega a probabilidade de um raio
+pega as infromações em volta - PROBABILIDADES APRIORI
+
+varias bolas azul e vermelha, se uma tiver uma bola desconhecida
+a probabilidade de ser azul é = P(azul) * P(azul no raio em volta da bola desconhecida), mesma coisa para o vermelho
+
+probabilidades posteori
+-resultado final da classificação
+
+aloritmo naive bayes - vantagens e desvantagens
+vantagens - rapido
+            simplicidade de interpretação
+            trabalha com altas dimensões
+            boas previsões em bases pequenas
+
+desvantagem- atributos independentes(renda nao tem nada a ver com a divida por ex)
+             
+             

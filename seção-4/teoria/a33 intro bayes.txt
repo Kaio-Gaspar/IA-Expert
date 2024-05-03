@@ -1,0 +1,6 @@
+exemplos  -  bayes
+filtros spam
+miniração de emoções
+separação de documentos
+
+gera uma tabela de probabilidade
