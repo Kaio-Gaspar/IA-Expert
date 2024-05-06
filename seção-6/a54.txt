@@ -1,0 +1,7 @@
+intro
+
+aprendizado por regras - 
+algoritmo oneR, PRISM
+
+entender o funcionamento do algoritmo
+diferenças arvores de decisão x regras
